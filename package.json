@@ -3,6 +3,7 @@
   "description": "An HTML/JS/CSS app for El Departamento de la Comida",
   "version": "0.0.1",
   "private": true,
+  "repository": "https://github.com/xbs13/elDeptDev",
   "authors": [
     "Michael Perez <Michael@nighnight.com>",
     "Alberto de la Cruz <alberto@nighnight.com>"
