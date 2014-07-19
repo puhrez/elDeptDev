@@ -34,7 +34,7 @@
   - On sale
   - Coming this week
   - What's in
-####Design:
+###Design:
 **TODO:**
 - Splash About Us:
   - Rotate Circle, Shift left, fade-in right Name, shift up, fade-in down content
