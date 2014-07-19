@@ -34,6 +34,7 @@
   - On sale
   - Coming this week
   - What's in
+  
 ###Design:
 **TODO:**
 - Splash About Us:
