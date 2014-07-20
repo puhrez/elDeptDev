@@ -9,7 +9,7 @@
  * You can also ask Lineman's about config from the command line:
  *
  *   $ lineman config #=> to print the entire config
- *   $ lineman config concat_sourcemap.js #=> to see the JS config for the concat task.
+ *   $ lineman config concat.js #=> to see the JS config for the concat task.
  */
 module.exports = function(lineman) {
   //Override application configuration here. Common examples follow in the comments.
@@ -45,15 +45,6 @@ module.exports = function(lineman) {
     // via grunt-asset-fingerprint
     //
     // enableAssetFingerprint: true
-
-    // LiveReload
-    //
-    // Lineman can LiveReload browsers whenever a file is changed that results in
-    // assets to be processed, preventing the need to hit F5/Cmd-R every time you
-    // make a change in each browser you're working against. To enable LiveReload,
-    // comment out the following line:
-    //
-    // livereload: true
 
   };
 };
